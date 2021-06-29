@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @programmernotacoder
-- 👀 I’m interested in programminh in python machine learning AI and data analysis
+- 👀 I’m interested in programming in python machine learning AI and data science
 - 🌱 I’m currently learning machine learning and data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bailox9@gmail.com
